@@ -8,6 +8,4 @@ image:
   feature: 
 ---
 
-Supergraph
-
-Coming soon
+Coming soon ...
